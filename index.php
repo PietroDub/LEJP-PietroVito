@@ -13,11 +13,7 @@ a:hover { background: #0056b3; }
 <body>
 <h1>Lista de Exercícios - JS e PHP</h1>
 
-<?php
-for($i = 1; $i <= 10; $i++){
-    echo "<a href='ex0$i/index.php'>Exercício 0$i</a>";
-}
-?>
+
 
 </body>
 </html>
